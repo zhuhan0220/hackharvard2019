@@ -5,7 +5,7 @@ In modern society, people tend to be atomized into individual dots, keeping poli
 ![ ](https://vthumb.ykimg.com/054106015C54157F000001410E053FB0)
 
 ## What it does
-![](figs/vhelp.jpg)
+![](figs/vhelp.PNG)
 Vhelp is a non-profit organization with a large cohert of visually impeded users and volunteers willing to offer assistance in their spare time. Vhelp currently needs a proprietary platform for visually impaired people to seek assistance from nearby volunteers. Volunteers can either call in via the camera at the user's hand, or come in person depending on the concrete situations, to solve various problems run into by users.
 
 ## Challenges we ran into
