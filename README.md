@@ -15,8 +15,6 @@ Vhelp is a non-profit organization with a large cohert of visually impeded users
 - For in-person assist request, we need an algorithm to fetch the best match volunteer in terms of the nearest volunteer that can reach the user, and provide navigation services to him/her 
 - Get GPS positions of users and match volunteers to users
 - Providing navigation for volunteers to commute to the user's place
-- (Optional feature) monitoring the interaction procedure to reduce risk, using sentimental analysis to issue 
-- Review section
 
 ## The tech stack under development
 -  We use Andriod Studio to develop and test mobile apps.
@@ -24,7 +22,7 @@ Vhelp is a non-profit organization with a large cohert of visually impeded users
 -  We used Google speech-to-text API to tackle Audio input problem
 -  Used firebase to receive updates of user positions, for the Google Cloud backend to perform matching later on
 -  Provide navigation service to volunteers, facilitate them finding the users
--  Use real-time sentiment analysis to monitor potential 
+-  Use real-time sentiment analysis to monitor potential risks
 
 Converting oral instructions of visually impeded users' into text for better communication 
 
