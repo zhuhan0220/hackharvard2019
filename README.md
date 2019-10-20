@@ -23,12 +23,13 @@ Vhelp is a non-profit organization with a large cohert of visually impeded users
 - [ ] We used Google speech-to-text API to tackle Audio input problem
 - [ ] Used Andriod positioning service to grab the position of users
 - [ ] Used firebase to receive updates of user positions, for the Google Cloud backend to perform matching later on
-- [ ] 
-
-
+- [ ] Provide navigation service to volunteers, facilitate them finding the users
+- [ ] Use real-time sentiment analysis to monitor potential 
 
 Converting oral instructions of visually impeded users' into text for better communication 
 
 ## What we learned
+- [ ] To use multiple Google Cloud APIs, like speech-to-text APIs, sentiment analysis APIs, Google APP Engine, Firebase etc. 
+- [ ] To 
 
 ## What's next for myproj
