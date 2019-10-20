@@ -19,6 +19,7 @@ Vhelp is a non-profit organization with a large cohert of visually impeded users
 - Review section
 
 ## The tech stack under development
+-  We use Andriod Studio to develop and test mobile apps.
 -  We used Andriod position services API to grab real-time precise position data of the users and volunteers 
 -  We used Google speech-to-text API to tackle Audio input problem
 -  Used firebase to receive updates of user positions, for the Google Cloud backend to perform matching later on
