@@ -1,4 +1,4 @@
-# hackharvard2019
+# Hackharvard2019
 ## Inspiration
 In modern society, people tend to be atomized into individual dots, keeping polite distance from others. Visually impaired people, whose mobility and possible activities are inevitablly restricted. However, there are volunteers who are motivated to help them live a normal life just as are, by offering their help both over the internet and in person. We are creating a platform connecting atomized individuals, helping visually impeded people live up to their independent lives with dignity. 
 
@@ -18,18 +18,22 @@ Vhelp is a non-profit organization with a large cohert of visually impeded users
 - (Optional feature) monitoring the interaction procedure to reduce risk, using sentimental analysis to issue 
 - Review section
 
-## Accomplishments that we're proud of
-- [ ] We used Google position services API to grab real-time precise position data of the users and volunteers 
-- [ ] We used Google speech-to-text API to tackle Audio input problem
-- [ ] Used Andriod positioning service to grab the position of users
-- [ ] Used firebase to receive updates of user positions, for the Google Cloud backend to perform matching later on
-- [ ] Provide navigation service to volunteers, facilitate them finding the users
-- [ ] Use real-time sentiment analysis to monitor potential 
+## The tech stack under development
+-  We used Andriod position services API to grab real-time precise position data of the users and volunteers 
+-  We used Google speech-to-text API to tackle Audio input problem
+-  Used firebase to receive updates of user positions, for the Google Cloud backend to perform matching later on
+-  Provide navigation service to volunteers, facilitate them finding the users
+-  Use real-time sentiment analysis to monitor potential 
 
 Converting oral instructions of visually impeded users' into text for better communication 
 
 ## What we learned
-- [ ] To use multiple Google Cloud APIs, like speech-to-text APIs, sentiment analysis APIs, Google APP Engine, Firebase etc. 
-- [ ] To 
+- [x] Andriod Studio
+- [x] Google Cloud APIs: speech-to-text API, text-to-speech API, sentiment analysis API etc.
+- [x] Google App Engine
+- [x] Firebase
+- [x] Andriod positioning service
 
-## What's next for myproj
+
+## What's next for my proj
+- complete MVP and put to alpha test
